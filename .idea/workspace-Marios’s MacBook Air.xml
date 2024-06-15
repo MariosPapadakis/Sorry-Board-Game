@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bbbb062c-8507-4dec-bbc5-d118ea077b65" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2YkyyAsbUUx01UOHgR5xsCaL9Lj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.View.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.ControllerTest.executor": "Run",
+    "JUnit.ControllerTest.testGameplay.executor": "Run",
+    "JUnit.ControllerTest.testInitGame.executor": "Run",
+    "JUnit.ControllerTest.testLoadGame.executor": "Run",
+    "JUnit.ControllerTest.testSaveGame.executor": "Run",
+    "JUnit.ControllerTest.testSwapTurns.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/marios_papadakis/Library/CloudStorage/OneDrive-minisoftE.E/CSD/Lessons/ΗΥ-252 (JAVA)/ASSIGNMENTS/PROJECT/PhaseΒ_5254",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ControllerTest.testGameplay">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="PHASE AA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PHASE AA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Controller" />
+      <option name="MAIN_CLASS_NAME" value="Controller.ControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControllerTest.testGameplay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PHASE AA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Controller" />
+      <option name="MAIN_CLASS_NAME" value="Controller.ControllerTest" />
+      <option name="METHOD_NAME" value="testGameplay" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControllerTest.testLoadGame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PHASE AA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Controller" />
+      <option name="MAIN_CLASS_NAME" value="Controller.ControllerTest" />
+      <option name="METHOD_NAME" value="testLoadGame" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControllerTest.testSaveGame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PHASE AA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Controller" />
+      <option name="MAIN_CLASS_NAME" value="Controller.ControllerTest" />
+      <option name="METHOD_NAME" value="testSaveGame" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ControllerTest.testGameplay" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ControllerTest" />
+        <item itemvalue="JUnit.ControllerTest.testLoadGame" />
+        <item itemvalue="JUnit.ControllerTest.testSaveGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbbb062c-8507-4dec-bbc5-d118ea077b65" name="Changes" comment="" />
+      <created>1701084123893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701084123893</updated>
+      <workItem from="1701084125330" duration="5651000" />
+      <workItem from="1701090626267" duration="1196000" />
+      <workItem from="1701618370436" duration="840000" />
+      <workItem from="1701701654274" duration="7120000" />
+      <workItem from="1701784645776" duration="3305000" />
+      <workItem from="1701787975174" duration="4608000" />
+      <workItem from="1701875920368" duration="38301000" />
+      <workItem from="1702053675792" duration="2501000" />
+      <workItem from="1702113857106" duration="156000" />
+      <workItem from="1702114028357" duration="7500000" />
+      <workItem from="1702142421330" duration="937000" />
+      <workItem from="1702766431301" duration="45000" />
+      <workItem from="1704201628399" duration="365000" />
+      <workItem from="1704202011012" duration="31882000" />
+      <workItem from="1704905537532" duration="19000" />
+      <workItem from="1705063909698" duration="194000" />
+      <workItem from="1705064117213" duration="4178000" />
+      <workItem from="1705157605397" duration="52235000" />
+      <workItem from="1705329044181" duration="25092000" />
+      <workItem from="1705397937903" duration="1249000" />
+      <workItem from="1705399837462" duration="309000" />
+      <workItem from="1705400160522" duration="32000" />
+      <workItem from="1705400206688" duration="27692000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
